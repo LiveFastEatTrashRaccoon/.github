@@ -33,6 +33,3 @@ them, access a list of topics, create new threads or access the existing ones an
 Considering the above statement about freedom of expression and the idea that growth stems from
 discussion (sometimes even argument) between people, it was natural to put a focus on this kind
 of interactions.
-
-![](https://github-readme-stats.vercel.app/api/pin/?username=LiveFastEatTrashRaccoon&repo=RaccoonForLemmy&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/pin/?username=LiveFastEatTrashRaccoon&repo=RaccoonForFriendica&theme=tokyonight)
