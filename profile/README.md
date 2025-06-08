@@ -3,10 +3,10 @@
 **Procyon** intends to provide a set of clients for social and aggregation platforms in order to
 make it easier for everyone to find and access their favorite space in the **Fediverse**.
 
+Want to know more? Have a look at our [blog](https://livefasteattrashraccoon.github.io)!
+
 It dates back to 2023 with a Lemmy client and was extended with a Friendica (Mastodon-compatible)
 client in 2024.
-
-Want to know more? Have a look at the [project homepage](https://livefasteattrashraccoon.github.io)!
 
 ## What's in a name?
 
