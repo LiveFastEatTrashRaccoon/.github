@@ -6,6 +6,8 @@ make it easier for everyone to find and access their favorite space in the **Fed
 It dates back to 2023 with a Lemmy client and was extended with a Friendica (Mastodon-compatible)
 client in 2024.
 
+Want to know more? Have a look at the [project homepage](https://livefasteattrashraccoon.github.io)!
+
 ## What's in a name?
 
 Raccoons are adorable, aren't they? Such cute and intelligent animals deserve more recognition!
